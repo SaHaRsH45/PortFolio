@@ -48,7 +48,7 @@ const About = () => {
 
           {/* Resume Button */}
           <motion.a
-            href="https://drive.google.com/your-cv-link"
+            href="https://drive.google.com/file/d/1q4BJq4Qcq_tFWaQ7W0ZjoQNCPXNfkiSK/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             whileHover={{ scale: 1.05, boxShadow: "0px 0px 20px #8245ec" }}
