@@ -24,9 +24,9 @@ const About = () => {
           animate={{ y: 0, opacity: 1 }}
           transition={{ duration: 0.8, delay: 0.2 }}
         >
-          <h2 className="text-4xl md:text-5xl font-bold mb-4">
-            Hi, I'm Saharsh
-          </h2>
+          <h2 className="text-4xl md:text-5xl font-bold mb-4 text-purple-700">
+  Hi, I'm Saharsh
+</h2>
           
           {/* Typewriter Titles */}
           <p className="text-lg md:text-xl text-purple-600 font-semibold mb-4">
