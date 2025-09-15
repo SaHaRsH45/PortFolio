@@ -122,7 +122,7 @@ export const SkillsInfo = [
   
   export const projects = [
     {
-      id: 4,
+      id: 0,
       title: "Rhythmix_Music_Player",
       description:
         "Rhythmix Music is a modern and dynamic music streaming application that lets users listen to their favorite tracks, create and manage custom playlists, and save songs for quick access, providing a seamless and enjoyable music experience",
@@ -132,7 +132,7 @@ export const SkillsInfo = [
       webapp: "https://rhythmix-music-player.vercel.app/home",
     },
     {
-      id: 3,
+      id: 1,
       title: "Encryption_Decryption_Tool",
       description:
         "A Python GUI application that allows users to securely encrypt and decrypt messages using a key-based cipher. Built with Tkinter, it uses Base64 encoding for safe message transformation and provides an intuitive, user-friendly interface.",
@@ -142,7 +142,7 @@ export const SkillsInfo = [
       webapp: "https://github.com/SaHaRsH45/Encryption-Decryption-Tool",
     },
     {
-    id: 1,
+    id: 2,
     title: "WorkOra_Employee_Management_System",
     description:
       "WorkOra is an efficient and user-friendly Employee Management System built using modern web technologies. It provides three main sections: an Admin Dashboard for managing employees, an Employee Dashboard for individual employee interactions, and a Create Employee section for onboarding new employees. Designed with simplicity and productivity in mind, WorkOra streamlines workforce management for organizations.",
@@ -152,7 +152,7 @@ export const SkillsInfo = [
     webapp: "https://work-ora-an-employee-management-sys.vercel.app",
 },
 {
-  id: 2,
+  id: 3,
   title: "Portfolio_Website",
   description:
     "A personal portfolio website built with modern web technologies to showcase projects, skills, and achievements. Designed with a clean and responsive UI, it highlights work experience, project details, and provides an easy way to connect.",
